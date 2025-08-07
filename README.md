@@ -4,7 +4,7 @@ An interactive Power BI report analyzing Superstore USA sales data, customer beh
 
 ---
 
-To explore the dashboard:
+## 🚀 How to View
 
 1. Download the `.pbix` file from this repository:  
    👉 [superstore.pbix](./superstore.pbix)
@@ -61,14 +61,6 @@ To explore the dashboard:
 - 📆 Year-over-year trend analysis
 - 📂 Interactive slicers for region and year
   
----
-
-## 🚀 How to View
-
-1. Download `superstore.pbix`
-2. Open it in Power BI Desktop (free from Microsoft)
-3. Explore the interactive dashboard features
-
 ---
 
 ## 📄 License

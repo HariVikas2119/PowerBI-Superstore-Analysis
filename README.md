@@ -17,9 +17,9 @@ An interactive Power BI report analyzing Superstore USA sales data, customer beh
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](
+[Dashboard Screenshot]
 <img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/1c58fb75-33f1-438b-b037-79791a7b96c7" />
-<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/0d71de1b-b659-4a0b-8c09-066ca9ce1ac5" />)
+<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/0d71de1b-b659-4a0b-8c09-066ca9ce1ac5" />
 
 ---
 

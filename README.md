@@ -7,7 +7,7 @@ An interactive Power BI report analyzing Superstore USA sales data, customer beh
 To explore the dashboard:
 
 1. Download the `.pbix` file from this repository:  
-   👉 [superstore_ans.pbix](./superstore.pbix)
+   👉 [superstore.pbix](./superstore.pbix)
 
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (free to download)
 
@@ -42,7 +42,7 @@ To explore the dashboard:
 
 | File | Description |
 |------|-------------|
-| `superstore_ans.pbix` | Power BI Dashboard File |
+| `superstore.pbix` | Power BI Dashboard File |
 | `dashboard-screenshot.png` | Visual preview of the report |
 | `README.md` | Project overview and documentation |
 

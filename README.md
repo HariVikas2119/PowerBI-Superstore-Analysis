@@ -42,7 +42,7 @@ An interactive Power BI report analyzing Superstore USA sales data, customer beh
 
 | File | Description |
 |------|-------------|
-| `superstore.pbix` | Power BI Dashboard File |
+| `./superstore.pbix` | Power BI Dashboard File |
 | `dashboard-screenshot` | Visual preview of the report |
 | `README.md` | Project overview and documentation |
 
